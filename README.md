@@ -1,64 +1,115 @@
 # Hi there! 👋 I'm Ignacio Serrano Rodríguez
 
-## 🚀 Data Scientist | Transforming Complex Data into Strategic Business Insights
+## Data Scientist & Backend Developer
 
-Welcome to my GitHub profile! I'm a passionate Data Scientist with expertise in end-to-end ML workflows, predictive modeling, and intelligent automation systems.
+I am currently developing production systems at Woodea and designing automated emergency alert systems as a volunteer Data Scientist at VOST Euskadi.
 
-### 🔭 Currently Working On
-- **Real-Time Vehicle Tracking System** with YOLOv11 and Computer Vision for smart city roundabout monitoring
-- **Automated Slack Alert System** for VOST Euskadi, integrating public data sources with intelligent filtering for critical winter road events
-- Exploring **MLOps, Apache Kafka**, and real-time architectures for scalable ML systems
+I specialize in developing intelligent systems that address real-world challenges, ranging from backend API development to computer vision applications. I am committed to combining technical excellence with meaningful social impact, particularly in emergency response and transportation technology sectors.
 
-### 💼 Experience
-- **Data Scientist & Automation Volunteer** at VOST Euskadi (Jul 2025 - Present)
-- **QA Automation Tester** at WATA Factory (Mar 2025 - Jun 2025)
+### 🔭 Current Focus
+- **Production Backend Systems** at Woodea using Python/Flask architecture
+- **Real-Time Emergency Alert Systems** for VOST Euskadi with multi-source data integration
+- **Advanced Computer Vision** projects: YOLOv11-based vehicle tracking and traffic analysis
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Stack
 
-**Data Science & ML:**
+**Backend & API Development:**
+
+**Data Science & Machine Learning:**
 ```
-Python • SQL • Pandas • NumPy • Scikit-Learn • TensorFlow • PyTorch • Keras
-Statistical Analysis • Feature Engineering • Time Series Analysis • A/B Testing
+TensorFlow • PyTorch • Keras • Scikit-Learn • NumPy • Pandas
+Statistical Analysis • Feature Engineering • Time Series Analysis
+A/B Testing • MLOps • Model Deployment • Real-time Analytics
+```
+
+```
+Python • Flask • FastAPI • MySQL • PostgreSQL • SQLAlchemy
+JavaScript • Django • RESTful APIs • Microservices Architecture
+```
+
+**Computer Vision & AI:**
+```
+YOLOv11 • OpenCV • Object Detection • Object Tracking • Video Analytics
+CUDA Programming • Edge AI • Real-time Video Processing
+Multi-Object Tracking • IoU Optimization • Performance Tuning
+```
+
+**Big Data & Stream Processing:**
+```
+Apache Spark • Apache Kafka • Apache Airflow • Apache NiFi
+ETL Pipelines • Real-time Stream Processing • Hadoop • Cassandra
+```
+
+**Cloud & DevOps:**
+```
+AWS • Microsoft Azure • Docker • Kubernetes • Jenkins • MLflow
+CI/CD Pipelines • Infrastructure as Code • Container Orchestration
 ```
 
 **Automation & Testing:**
 ```
-Selenium • Playwright • Beautiful Soup • Docker • Git • Atlassian Suite
-Web Scraping • CI/CD Pipelines • Agile Methodologies
+Selenium • Playwright • Beautiful Soup • Web Scraping
+Agile Methodologies • Test Automation • Quality Assurance
 ```
 
-**Visualization & Analysis:**
+**Visualization & Analytics:**
 ```
-Matplotlib • Seaborn • Plotly • Jupyter • Power BI • Data Storytelling
-```
-
-**MLOps & Cloud:**
-```
-MLflow • Docker • Kubernetes • Jenkins • Azure • AWS • FastAPI • Django
+Matplotlib • Seaborn • Plotly • Microsoft Power BI • Jupyter
+Business Intelligence • Data Storytelling • Interactive Dashboards
 ```
 
-**Databases:**
-```
-SQL • PostgreSQL • MongoDB • Cassandra • ETL Processes
-```
+### 🏆 Featured Projects
 
-### 🏆 Featured Project
-**Real-Time Vehicle Tracking with YOLOv11**
-- Multi-class vehicle detection and tracking for smart city applications
-- Features: occlusion handling, ROI-based counting, anti-drift validation
-- Tech: Python, PyTorch, OpenCV, CUDA, YOLOv11, Computer Vision
+**🚗 Real-Time Vehicle Tracking System**
+- Multi-class vehicle detection and tracking using YOLOv11 for smart transportation
+- Features: Occlusion handling, ROI-based counting, anti-drift validation, CUDA optimization
+- **Tech Stack:** Python, PyTorch, OpenCV, YOLOv11, CUDA, Computer Vision
+- **Performance:** Real-time processing with IoU-based tracking accuracy optimization
+
+**🚨 Automated Emergency Alert System**
+- Intelligent Slack alert system integrating multiple public data sources for winter road safety
+- Real-time monitoring of road conditions, weather alerts, and emergency notifications
+- **Tech Stack:** Python, Web Scraping (Selenium, Beautiful Soup, Playwright), Docker, Git
+- **Impact:** Supporting emergency response teams and citizens in the Basque Country
+
+**🌐 Production Backend Systems**
+- Scalable web application backend with Flask/MySQL architecture
+- RESTful API design with SQLAlchemy ORM and comprehensive testing
+- **Tech Stack:** Python, Flask, MySQL, SQLAlchemy, JavaScript, API Development
+
+**🤖 Educational AI Assistant**
+- Specialized chatbot for inclusive education support (NEAE) in Andalusian schools
+- RAG implementation with vector databases and LLM integration
+- **Tech Stack:** Python, NLP, Retrieval-Augmented Generation, Educational Technology
+
+**📊 Social Network Data Platform**
+- Full-stack social platform with Angular frontend and Symfony API
+- Advanced statistics generation and collaborative features
+- **Tech Stack:** Angular, Symfony, MariaDB, Docker, PowerShell automation
 
 ### 🌍 Languages
-- **English**: Fluent
-- **Spanish**: Native
+- **Spanish:** Native
+- **English:** Fluent
 
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/ignacio-serrano-rodriguez)
-- 🏆 [Kaggle](https://kaggle.com/ignacioserrod)
-- 📍 Puerto Real, Cádiz, Spain
+### 📈 GitHub Stats & Activity
+- **Specialized Repositories:** Computer Vision, Backend APIs, Educational AI, Data Processing
+- **Active Contributions:** Open source projects, educational tools, emergency response systems
+- **Technical Documentation:** Comprehensive README files, API documentation, deployment guides
 
-### 💡 What I'm Passionate About
-Specialized in transforming complex data into actionable business insights through advanced analytics, machine learning, and intelligent automation. Always exploring new technologies and methodologies to solve real-world problems with data-driven solutions.
+### 🎯 Areas of Expertise
+- **Real-time AI Systems:** Edge computing, GPU optimization, performance tuning
+- **Transportation Intelligence:** Vehicle detection, traffic analysis, smart city applications  
+- **Emergency Response Technology:** Automated alert systems, data integration, public safety
+- **Production Backend Development:** Scalable APIs, database design, system architecture
+- **MLOps & Deployment:** Model serving, containerization, monitoring, CI/CD for ML
 
----
-*Open to remote, hybrid, or on-site opportunities. Flexible to relocate.*
+### 📫 Connect With Me
+- 💼 **LinkedIn:** [ignacio-serrano-rodriguez](https://linkedin.com/in/ignacio-serrano-rodriguez)
+- 🏆 **Kaggle:** [ignacioserrod](https://kaggle.com/ignacioserrod)  
+- 📧 **Professional Email:** Available on LinkedIn
+- 📍 **Location:** Puerto Real, Cádiz, Spain
+
+### 💡 What Drives Me
+I'm passionate about developing intelligent systems that create measurable impact in real-world scenarios. My expertise spans from low-level computer vision optimization to high-level system architecture, always focusing on performance, scalability, and social value.
+
+**Current Interests:** Real-time video analytics, edge AI deployment, emergency response automation, and scalable backend architectures for AI-powered applications.
