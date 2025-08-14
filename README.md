@@ -13,14 +13,14 @@ I specialize in developing intelligent systems that address real-world challenge
 
 ### 🛠️ Technical Stack
 
-**Backend & API Development:**
-
 **Data Science & Machine Learning:**
 ```
 TensorFlow • PyTorch • Keras • Scikit-Learn • NumPy • Pandas
 Statistical Analysis • Feature Engineering • Time Series Analysis
 A/B Testing • MLOps • Model Deployment • Real-time Analytics
 ```
+
+**Backend & API Development:**
 
 ```
 Python • Flask • FastAPI • MySQL • PostgreSQL • SQLAlchemy
