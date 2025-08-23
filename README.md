@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ignacio Serrano Rodríguez
 
-## Data Scientist & Backend Developer
+## Backend Developer & Data Scientist 
 
 I am currently developing production systems at Woodea and designing automated emergency alert systems as a volunteer Data Scientist at VOST Euskadi.
 
@@ -13,13 +13,6 @@ I specialize in developing intelligent systems that address real-world challenge
 
 ### 🛠️ Technical Stack
 
-**Data Science & Machine Learning:**
-```
-TensorFlow • PyTorch • Keras • Scikit-Learn • NumPy • Pandas
-Statistical Analysis • Feature Engineering • Time Series Analysis
-A/B Testing • MLOps • Model Deployment • Real-time Analytics
-```
-
 **Backend & API Development:**
 
 ```
@@ -27,17 +20,23 @@ Python • Flask • FastAPI • MySQL • PostgreSQL • SQLAlchemy
 JavaScript • Django • RESTful APIs • Microservices Architecture
 ```
 
+**Data Science & Machine Learning:**
+```
+TensorFlow • PyTorch • Keras • Scikit-Learn • NumPy • Pandas
+Statistical Analysis • Feature Engineering • Time Series Analysis
+A/B Testing • MLOps • Model Deployment • Real-time Analytics
+```
+**Big Data & Stream Processing:**
+```
+Apache Spark • Apache Kafka • Apache Airflow • Apache NiFi
+ETL Pipelines • Real-time Stream Processing • Hadoop • Cassandra
+```
+
 **Computer Vision & AI:**
 ```
 YOLOv11 • OpenCV • Object Detection • Object Tracking • Video Analytics
 CUDA Programming • Edge AI • Real-time Video Processing
 Multi-Object Tracking • IoU Optimization • Performance Tuning
-```
-
-**Big Data & Stream Processing:**
-```
-Apache Spark • Apache Kafka • Apache Airflow • Apache NiFi
-ETL Pipelines • Real-time Stream Processing • Hadoop • Cassandra
 ```
 
 **Cloud & DevOps:**
