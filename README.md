@@ -1,114 +1,64 @@
-# Hi there! 👋 I'm Ignacio Serrano Rodríguez
+# 👋 Hello all, I am Ignacio Serrano Rodríguez
 
-## Backend Developer & Data Scientist 
+## Backend Developer & Data Scientist
 
-I am currently developing production systems at Woodea and designing automated emergency alert systems as a volunteer Data Scientist at VOST Euskadi.
+I specialize in building scalable, production-ready platforms at the intersection of Backend Development and Data Science. My work at [Woodea](https://woodea.es/) focuses on robust backend architecture and APIs, while as a volunteer Data Scientist at [VOST Euskadi](https://vosteuskadi.eus/), I develop automated emergency alert systems with real-time analytics and AI-driven automation. My expertise spans advanced data processing, MLOps, and deploying intelligent solutions for critical domains.
 
-I specialize in developing intelligent systems that address real-world challenges, ranging from backend API development to computer vision applications. I am committed to combining technical excellence with meaningful social impact, particularly in emergency response and transportation technology sectors.
+- Contributor to computer vision, backend API, educational AI, and data engineering projects.
+- Advocate for technical excellence and best practices through documentation and deployment guides.
+- Active participant in open source, edtech, and public safety technology communities.
 
-### 🔭 Current Focus
-- **Production Backend Systems** at Woodea using Python/Flask architecture
-- **Real-Time Emergency Alert Systems** for VOST Euskadi with multi-source data integration
-- **Advanced Computer Vision** projects: YOLOv11-based vehicle tracking and traffic analysis
+## 🏆 Featured Projects
 
-### 🛠️ Technical Stack
+### [🚗 Real-Time Vehicle Tracking System](https://github.com/ignacio-serrano-rodriguez/yolo11-rotonda)
+- Smart transportation: multi-class detection, tracking, and analytics with YOLOv11 and CUDA optimization.
+- Advanced features: occlusion handling, ROI-based counting, anti-drift, IoU-based accuracy tuning.
 
-**Backend & API Development:**
+### [🤖 Educational AI Assistant](https://github.com/ignacio-serrano-rodriguez/asistente-neae)
+- Inclusive chatbot for NEAE educational support using Retrieval-Augmented Generation with LLMs and vector databases.
 
+### [📊 Social Network Data Platform](https://github.com/ignacio-serrano-rodriguez/data-burst)
+- Full-stack collaborative analytics: Angular frontend, Symfony API, MariaDB, Docker and PowerShell automation.
+
+## 🛠️ Technical Stack
+
+**Backend Development**
 ```
-Python • Flask • FastAPI • MySQL • PostgreSQL • SQLAlchemy
-JavaScript • Django • RESTful APIs • Microservices Architecture
-```
-
-**Data Science & Machine Learning:**
-```
-TensorFlow • PyTorch • Keras • Scikit-Learn • NumPy • Pandas
-Statistical Analysis • Feature Engineering • Time Series Analysis
-A/B Testing • MLOps • Model Deployment • Real-time Analytics
-```
-**Big Data & Stream Processing:**
-```
-Apache Spark • Apache Kafka • Apache Airflow • Apache NiFi
-ETL Pipelines • Real-time Stream Processing • Hadoop • Cassandra
+Python • Flask • FastAPI • Django • SQLAlchemy
+MySQL • PostgreSQL • Redis • RESTful APIs
+Microservices • Async Processing • API Security
 ```
 
-**Computer Vision & AI:**
+**Machine Learning & Deep Learning**
 ```
-YOLOv11 • OpenCV • Object Detection • Object Tracking • Video Analytics
-CUDA Programming • Edge AI • Real-time Video Processing
-Multi-Object Tracking • IoU Optimization • Performance Tuning
-```
-
-**Cloud & DevOps:**
-```
-AWS • Microsoft Azure • Docker • Kubernetes • Jenkins • MLflow
-CI/CD Pipelines • Infrastructure as Code • Container Orchestration
+TensorFlow • PyTorch • Scikit-Learn • Keras • NumPy • Pandas
+Data Modeling • Feature Engineering • Stats Analysis
+MLOps • Model Deployment • Real-Time Pipelines
 ```
 
-**Automation & Testing:**
+**Big Data**
 ```
-Selenium • Playwright • Beautiful Soup • Web Scraping
-Agile Methodologies • Test Automation • Quality Assurance
-```
-
-**Visualization & Analytics:**
-```
-Matplotlib • Seaborn • Plotly • Microsoft Power BI • Jupyter
-Business Intelligence • Data Storytelling • Interactive Dashboards
+Apache Spark • Apache Kafka • Airflow
+ETL • Batch & Real-Time Processing • Hadoop
+Cassandra • ClickHouse • Data Lakes
 ```
 
-### 🏆 Featured Projects
+**DevOps & Cloud**
+```
+AWS • Azure • Docker • Kubernetes • MLflow
+CI/CD • Infra as Code • Containerized Deployment
+Monitoring • Logging • Scalability
+```
 
-**🚗 Real-Time Vehicle Tracking System**
-- Multi-class vehicle detection and tracking using YOLOv11 for smart transportation
-- Features: Occlusion handling, ROI-based counting, anti-drift validation, CUDA optimization
-- **Tech Stack:** Python, PyTorch, OpenCV, YOLOv11, CUDA, Computer Vision
-- **Performance:** Real-time processing with IoU-based tracking accuracy optimization
+**Automation & Testing**
+```
+Pytest • Integration Testing • Test Automation
+Data Quality • Validation • Agile Workflows
+```
 
-**🚨 Automated Emergency Alert System**
-- Intelligent Slack alert system integrating multiple public data sources for winter road safety
-- Real-time monitoring of road conditions, weather alerts, and emergency notifications
-- **Tech Stack:** Python, Web Scraping (Selenium, Beautiful Soup, Playwright), Docker, Git
-- **Impact:** Supporting emergency response teams and citizens in the Basque Country
+## 🗣️ Languages
+- 🇪🇸 Spanish: Native
+- 🇬🇧 English: Fluent
 
-**🌐 Production Backend Systems**
-- Scalable web application backend with Flask/MySQL architecture
-- RESTful API design with SQLAlchemy ORM and comprehensive testing
-- **Tech Stack:** Python, Flask, MySQL, SQLAlchemy, JavaScript, API Development
-
-**🤖 Educational AI Assistant**
-- Specialized chatbot for inclusive education support (NEAE) in Andalusian schools
-- RAG implementation with vector databases and LLM integration
-- **Tech Stack:** Python, NLP, Retrieval-Augmented Generation, Educational Technology
-
-**📊 Social Network Data Platform**
-- Full-stack social platform with Angular frontend and Symfony API
-- Advanced statistics generation and collaborative features
-- **Tech Stack:** Angular, Symfony, MariaDB, Docker, PowerShell automation
-
-### 🌍 Languages
-- **Spanish:** Native
-- **English:** Fluent
-
-### 📈 GitHub Stats & Activity
-- **Specialized Repositories:** Computer Vision, Backend APIs, Educational AI, Data Processing
-- **Active Contributions:** Open source projects, educational tools, emergency response systems
-- **Technical Documentation:** Comprehensive README files, API documentation, deployment guides
-
-### 🎯 Areas of Expertise
-- **Real-time AI Systems:** Edge computing, GPU optimization, performance tuning
-- **Transportation Intelligence:** Vehicle detection, traffic analysis, smart city applications  
-- **Emergency Response Technology:** Automated alert systems, data integration, public safety
-- **Production Backend Development:** Scalable APIs, database design, system architecture
-- **MLOps & Deployment:** Model serving, containerization, monitoring, CI/CD for ML
-
-### 📫 Connect With Me
-- 💼 **LinkedIn:** [ignacio-serrano-rodriguez](https://linkedin.com/in/ignacio-serrano-rodriguez)
-- 🏆 **Kaggle:** [ignacioserrod](https://kaggle.com/ignacioserrod)  
-- 📧 **Professional Email:** Available on LinkedIn
-- 📍 **Location:** Puerto Real, Cádiz, Spain
-
-### 💡 What Drives Me
-I'm passionate about developing intelligent systems that create measurable impact in real-world scenarios. My expertise spans from low-level computer vision optimization to high-level system architecture, always focusing on performance, scalability, and social value.
-
-**Current Interests:** Real-time video analytics, edge AI deployment, emergency response automation, and scalable backend architectures for AI-powered applications.
+## 📫 Let's Connect
+- LinkedIn: [ignacio-serrano-rodriguez](https://linkedin.com/in/ignacio-serrano-rodriguez)
