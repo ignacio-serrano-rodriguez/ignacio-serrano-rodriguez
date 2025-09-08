@@ -57,8 +57,8 @@ Data Quality • Validation • Agile Workflows
 ```
 
 ## 🗣️ Languages
-- 🇪🇸 Spanish: Native
-- 🇬🇧 English: Fluent
+- **Spanish**: Native
+- **English**: Fluent
 
 ## 📫 Let's Connect
 - LinkedIn: [ignacio-serrano-rodriguez](https://linkedin.com/in/ignacio-serrano-rodriguez)
