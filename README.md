@@ -1,4 +1,4 @@
-# 👋 Hello all, I am Ignacio Serrano Rodríguez
+# 👋 Hello world, I am Ignacio Serrano Rodríguez
 
 ## Backend Developer & Data Scientist
 
