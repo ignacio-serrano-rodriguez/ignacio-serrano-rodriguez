@@ -1,4 +1,4 @@
-# 👋 Hello world, I am Ignacio Serrano Rodríguez
+# Hello world, I am Ignacio Serrano Rodríguez
 
 ## Backend Developer & Data Scientist
 
@@ -8,19 +8,19 @@ I specialize in building scalable, production-ready platforms at the intersectio
 - Advocate for technical excellence and best practices through documentation and deployment guides.
 - Active participant in open source, edtech, and public safety technology communities.
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### [🚗 Real-Time Vehicle Tracking System](https://github.com/ignacio-serrano-rodriguez/yolo11-rotonda)
+### [Real-Time Vehicle Tracking System](https://github.com/ignacio-serrano-rodriguez/yolo11-rotonda)
 - Smart transportation: multi-class detection, tracking, and analytics with YOLOv11 and CUDA optimization.
 - Advanced features: occlusion handling, ROI-based counting, anti-drift, IoU-based accuracy tuning.
 
-### [🤖 Educational AI Assistant](https://github.com/ignacio-serrano-rodriguez/asistente-neae)
+### [Educational AI Assistant](https://github.com/ignacio-serrano-rodriguez/asistente-neae)
 - Inclusive chatbot for NEAE educational support using Retrieval-Augmented Generation with LLMs and vector databases.
 
-### [📊 Social Network Data Platform](https://github.com/ignacio-serrano-rodriguez/data-burst)
+### [Social Network Data Platform](https://github.com/ignacio-serrano-rodriguez/data-burst)
 - Full-stack collaborative analytics: Angular frontend, Symfony API, MariaDB, Docker and PowerShell automation.
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 **Backend Development**
 ```
@@ -56,6 +56,6 @@ Pytest • Integration Testing • Test Automation
 Data Quality • Validation • Agile Workflows
 ```
 
-## 🗣️ Languages
+## Languages
 - **Spanish**: Native
 - **English**: Fluent
